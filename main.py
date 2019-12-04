@@ -4,7 +4,8 @@ import urllib.request
 def read_player(url):
     page = str(urllib.request.urlopen(url).read())
     player_name_pos = page.find('class="player-name"')
-    player_name = page[page.find('>', player_name_pos) + 1:page.find('&nbsp', player_name_pos)] if player_name_pos != -1 else ''
+    player_name = (page[page.find('>', player_name_pos) + 1:page.find('&nbsp', player_name_pos)]
+                   if player_name_pos != -1 else '')
     player_name = player_name.replace('&#039;', '\'')
     total_pos = page.find('class="player-totals">TOTAL')
     total_all = page[page.find('</td>', total_pos) + 5:page.find('</tr>', total_pos)]
@@ -38,8 +39,6 @@ def read_player(url):
     return player
 
 
-'''a
-with open('input_minak.txt') as f:
+with open('input.txt') as f:
     for url in f:
-        print(read_player(url))'''
-print(read_player("http://www.nfl.com/player/jordanta'amu/2562752/profile"))
+        print(read_player(url))
