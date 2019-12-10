@@ -51,3 +51,4 @@ with open('input.txt') as f:
         print('{:>10}'.format(player['TD']), '|', sep='', end='')
         print('{:>10}'.format(player['INT']), '|', sep='', end='')
         print('{:>10}'.format(round(player['PR'], 2)), '|', sep='')
+    print('|--------------------------------------------------------------------------------------|')
