@@ -1,0 +1,22 @@
+{'player_name': 'Bryce Petty', 'COMP': 130.0, 'ATT': 245.0, 'YDS': 1.353, 'TD': 4.0, 'INT': 10.0, 'PR': 34.75940476190476}
+{'player_name': 'Jimmy Garoppolo', 'COMP': 509.0, 'ATT': 754.0, 'YDS': 6.213, 'TD': 42.0, 'INT': 19.0, 'PR': 66.44127431476569}
+{'player_name': 'Matt Moore', 'COMP': 645.0, 'ATT': 1.074, 'YDS': 7.597, 'TD': 49.0, 'INT': 36.0, 'PR': 51319.576350093106}
+{'player_name': 'AJ McCarron', 'COMP': 87.0, 'ATT': 137.0, 'YDS': 928.0, 'TD': 6.0, 'INT': 2.0, 'PR': 91.74270072992701}
+{'player_name': 'Ryan Mallett', 'COMP': 190.0, 'ATT': 345.0, 'YDS': 1.835, 'TD': 9.0, 'INT': 10.0, 'PR': 44.61757246376812}
+{'player_name': 'Landry Jones', 'COMP': 108.0, 'ATT': 169.0, 'YDS': 1.31, 'TD': 8.0, 'INT': 7.0, 'PR': 53.89077909270217}
+{'player_name': 'Robert Griffin III', 'COMP': 780.0, 'ATT': 1.232, 'YDS': 9.133, 'TD': 43.0, 'INT': 27.0, 'PR': 55295.4173430736}
+{'player_name': 'Alex Tanney', 'COMP': 10.0, 'ATT': 14.0, 'YDS': 99.0, 'TD': 1.0, 'INT': 0.0, 'PR': 114.88095238095238}
+{'player_name': 'Tom Savage', 'COMP': 181.0, 'ATT': 315.0, 'YDS': 2.0, 'TD': 5.0, 'INT': 7.0, 'PR': 46.02513227513227}
+{'player_name': 'Scott Tolzien', 'COMP': 88.0, 'ATT': 146.0, 'YDS': 1.065, 'TD': 2.0, 'INT': 9.0, 'PR': 31.22331621004566}
+{'player_name': 'Mark Sanchez', 'COMP': 1.314, 'ATT': 2.32, 'YDS': 15.357, 'TD': 86.0, 'INT': 89.0, 'PR': -3551.011135057471}
+{'player_name': 'Kellen Clemens', 'COMP': 350.0, 'ATT': 638.0, 'YDS': 4.053, 'TD': 16.0, 'INT': 21.0, 'PR': 42.47030433646813}
+{'player_name': 'Ryan Nassib', 'COMP': 9.0, 'ATT': 10.0, 'YDS': 128.0, 'TD': 1.0, 'INT': 0.0, 'PR': 163.75000000000003}
+{'player_name': 'Dan Orlovsky', 'COMP': 298.0, 'ATT': 512.0, 'YDS': 3.132, 'TD': 15.0, 'INT': 13.0, 'PR': 49.79762369791666}
+{'player_name': 'Teddy Bridgewater', 'COMP': 697.0, 'ATT': 1.069, 'YDS': 7.638, 'TD': 38.0, 'INT': 25.0, 'PR': 56470.89374805114}
+{'player_name': 'Brian Hoyer', 'COMP': 873.0, 'ATT': 1.477, 'YDS': 10.274, 'TD': 52.0, 'INT': 34.0, 'PR': 51430.2993116678}
+{'player_name': 'Matt Schaub', 'COMP': 2.148, 'ATT': 3.348, 'YDS': 25.467, 'TD': 136.0, 'INT': 91.0, 'PR': 2302.495270808443}
+{'player_name': 'Derek Anderson', 'COMP': 909.0, 'ATT': 1.674, 'YDS': 10.878, 'TD': 60.0, 'INT': 64.0, 'PR': 41297.5781561131}
+{'player_name': 'Luke McCown', 'COMP': 216.0, 'ATT': 356.0, 'YDS': 2.37, 'TD': 9.0, 'INT': 15.0, 'PR': 43.5436563670412}
+{'player_name': 'Matt Barkley', 'COMP': 183.0, 'ATT': 307.0, 'YDS': 2.27, 'TD': 10.0, 'INT': 19.0, 'PR': 36.858984799131385}
+{'player_name': 'Thad Lewis', 'COMP': 115.0, 'ATT': 189.0, 'YDS': 1.296, 'TD': 5.0, 'INT': 4.0, 'PR': 52.817372134038806}
+{'player_name': 'Sean Mannion', 'COMP': 33.0, 'ATT': 53.0, 'YDS': 258.0, 'TD': 0.0, 'INT': 1.0, 'PR': 66.39150943396226}
