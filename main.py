@@ -39,6 +39,17 @@ def read_player(url):
     return player
 
 
-with open('input.txt') as f:
+with open('input.txt') as f, open('logs.txt', 'w') as logs:
+    print('|       Player       |   COMP   |    ATT   |    YDS   |    TD    |    INT   |    PR    |')
+    print('|--------------------------------------------------------------------------------------|')
     for url in f:
-        print(read_player(url))
+        player = read_player(url)
+        print(player, file=logs)
+        print('|', '{:<20}'.format(player['player_name']), '|', sep='', end='')
+        print('{:>10}'.format(player['COMP']), '|', sep='', end='')
+        print('{:>10}'.format(player['ATT']), '|', sep='', end='')
+        print('{:>10}'.format(player['YDS']), '|', sep='', end='')
+        print('{:>10}'.format(player['TD']), '|', sep='', end='')
+        print('{:>10}'.format(player['INT']), '|', sep='', end='')
+        print('{:>10}'.format(round(player['PR'], 2)), '|', sep='')
+    print('|--------------------------------------------------------------------------------------|')
